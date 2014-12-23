@@ -18,10 +18,6 @@ import java.awt.Desktop;
 import java.net.URI;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author AhmedMahfouz
- */
 public class LaunchBrowser {
     public void LaunchFacebook(){
         try {
